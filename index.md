@@ -11,7 +11,9 @@ Add Markdown headers to index.md
 def hello_world():
     print("Hello, Markdown!")
 
-
+- [x] turn on github pages
+- [ ] outline my portfolio
+- [ ] introduce myself to the world
 
 
 
